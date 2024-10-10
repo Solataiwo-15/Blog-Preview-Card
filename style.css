@@ -86,6 +86,12 @@ p{
   line-height: 36px;
 }
 
+.text2:hover{
+  color: #F4D04E;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
 .text3{
   align-self: stretch;
   color: #6B6B6B;
